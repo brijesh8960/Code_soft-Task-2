@@ -1,0 +1,250 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color :aqua;
+    color:black;
+}
+
+.bottom{
+text-align: center;
+/* display:flex; */
+background-color: aqua;
+text-align:center;
+align-items:center;
+display:flex;
+padding: 2% 5%;}
+button.hover{
+    background-color: blue;
+}
+.bottom1{
+    margin: 5% 35%;
+    display:flex;
+    gap : 10%;
+    margin : 0% 4%;
+    padding:2%;
+    background-color: aqua;
+    text-align:center;
+    align-items:center;
+    display:flex;
+;
+    
+}
+.bottom2{
+ margin:0% 0% 2%;
+ /* color:blue; */
+ background-color: aqua;
+ text-align:center;
+ align-items:center;
+ display:flex;
+
+}
+.bottom3{
+    
+    margin: 0% 30%;
+    display: flex;
+    gap : 15%;
+    background-color: aqua;
+    text-align:center;
+    align-items:center;
+    display:flex;
+}
+.image1{
+    width : 50%;
+height : auto;
+    clear: right;
+float: right;
+}
+.footer1{
+    margin : 3%;
+    
+}
+.icon{
+margin: 2% 2% 2% ;
+}
+.button {
+    gap : 10%;
+}
+.footer2{
+    margin: 2%;
+   gap : 2%;
+}
+.image2{
+    width : 50%;
+    height : 50%;
+        clear: left;
+    float: left;
+    gap : 2%;
+    margin: 0% 2%;
+}
+
+.footer21{
+    gap : 2%;
+    margin: 0% 2%;
+
+}
+.footer22{
+    font-size: 150%;
+}
+
+.footer3{
+margin: 2% 5%;
+}
+.image3{
+    width : 35%;
+    height : 35%;
+        clear: right;
+    float: right;
+    gap : 2%;
+    margin: 0% 2%;
+    display:center;
+}
+.footer31{
+   gap:2%;
+   font-size: 150%;
+ 
+}
+
+.footer32{
+margin:4%;
+font-size: 150%;
+}
+#vol {
+    
+
+}
+.footer4{
+    margin: 2% 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:30px;
+    font-size: 100%;
+    /* background-color: aquamarine; */
+}
+.footer41{
+    font-weight: 100px;
+    font-size: 150%;
+    margin:3%;
+    gap: 30%;
+    align-items: end;
+
+}
+.footer42{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 10%;
+    font-size: 150%;
+    /* background-color:red; */
+    margin: 0% 10%;
+    
+/* background-color: white; */
+}
+.footer43{
+    font-size: 120%;
+    background-color: purple;
+}
+.footer5{
+margin :3% 5%;
+
+}
+.footer51{
+    font-size: 200%;
+margin: 2%;
+}
+.footer52{
+margin:5%;
+font-size:400%;
+display: grid;
+grid-template-columns: 1fr 1fr ;
+gap : 5%;
+}
+
+.footer6{
+    margin :3% 5%;
+}
+
+.footer61{
+    font-size: 200%;
+    margin: 2%;
+
+}
+.footer62{
+
+    margin:5%;
+font-size:150%;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr ;
+gap : 5%;
+}
+.footer7{
+    margin :3% 5%;
+
+}
+.footer71{
+
+    font-size: 200%;
+    margin: 2%;
+
+}
+.footer72{
+    margin:5%;
+    font-size:150%;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap : 9%;
+
+}
+
+.footer8{
+    margin :3% 5%;
+}
+
+.footer81{
+    font-size: 200%;
+    margin: 2%;
+
+}
+
+.footer82{
+    /* margin:5%; */
+    font-size:150%;
+    display: grid;
+    grid-template-columns: 1fr ;
+    gap : 30%;
+    margin: 5% 30%;
+    align-items: center;
+
+}
+.footer9{
+    margin :3% 5%;
+}
+.footer91{
+    font-size: 200%;
+    margin: 2%;
+}
+.footer92{
+    font-size: 120%;
+    margin: 0% 10%;
+}
+
+.footer10{
+    margin :3% 5%;
+}
+
+.footer101{
+    font-size: 200%;
+    margin: 2%;
+    
+}
+
+.footer102{
+    margin :3% 5%;
+}
+
+
+
+
+
+
+
